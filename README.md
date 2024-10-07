@@ -1,28 +1,37 @@
 
 <h1 align="center">Hi 👋, I'm Wan Hakimi</h1>
-<h4 align="center">I’m software engineering students who enjoys working with people and computers.  
-I create website and mobile application that people LOVE to use</h4>
+<h4 align="center">I’m software engineering students who enjoys working with people and computers.  </h4>
+<!-- 
+# Introduction
+Hi! I'm Wan Muhammad Hakimi, a student in the Software Maintenance and Evolution course. </br>
+I expect to learn a lot about modern software maintenance
+practices and how to work with legacy systems.
+-->
+
+
+
+
+### 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+
 
 <p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
-
-<!-- - 🔭 I’m currently working on **Software ** 
-
-- 🌱 I’m currently working on **SaaS Products & Tools**
-
-- 💬 Ask me about **Machine learning, Full Stack Development, Blockchain & Distributed Systems, HFT Systems**
-
-- 📫 You can reach me here  **shivamshinde883@gmail.com** or **mail@shivamshinde.com**
-
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://twitter.com/wannhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_1337" height="30" width="40" /></a>
-
-<!--<a href="https://linkedin.com/in/shivam1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam1337" height="30" width="40" /></a> -->
-
 </p>
+
+
+
 
 <!-- 
 
@@ -32,13 +41,15 @@ I create website and mobile application that people LOVE to use</h4>
 -->
 
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WannHakimi&theme=nord&hide_border=true)<br/>
 
+<!--
 **WannHakimi/WannHakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
