@@ -15,9 +15,10 @@
 
 <p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
 
-<p align="left"></p> </br>
+
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WanHakimii&theme=github-dark-blue&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=250&hide_longest_streak=true)](https://git.io/streak-stats)
-
+[![WannHakimi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WannHakimi&show_icons=true&theme=dark&custom_title=WannHakimi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![WannHakimi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WannHakimi&show_icons=true&theme=default&custom_title=WannHakimi's_Status#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannHakimi&hide_progress=true)
