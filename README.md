@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wan Hakimi</h1>
 <h4 align="center">I’m software engineering students who enjoys working with people and computers.  </h4>
+</br>
 
-### 🚀 Tech Stack
+<div align="center">
+<h2 style="font-weight: bold"> 🚀 Tech Stack </h2> 
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
@@ -11,8 +14,10 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 
+</div>
 
-<p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiast"/></a> </p>
 
 ![snake gif](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake-dark.svg)
 
