@@ -19,7 +19,7 @@
 
 <p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiast"/></a> </p>
 
-![snake gif](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 📊 GitHub Stats: 
