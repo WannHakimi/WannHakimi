@@ -22,7 +22,7 @@
 ![snake gif](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 
 [![WannHakimi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WannHakimi&show_icons=true&theme=dark&custom_title=WannHakimi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![WannHakimi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WannHakimi&show_icons=true&theme=default&custom_title=WannHakimi's_Status#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)</br>
