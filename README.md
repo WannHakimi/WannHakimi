@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WannHakimi&label=Profile%20views&color=0e75b6&style=flat" alt="WannHakimi" /> </p>
+
 <h1 align="center">Hi 👋, I'm Wan Hakimi</h1>
 <h4 align="center">I’m software engineering students who enjoys working with people and computers.  </h4>
 </br>
@@ -19,7 +21,7 @@
 
 <p align="center"> <a href="https://twitter.com/wannhakimi" target="blank"><img src="https://img.shields.io/twitter/follow/wannhakimi?logo=twitter&style=for-the-badge" alt="enthusiast"/></a> </p>
 
-![snake gif](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake.svg)
+![snake gif Github stats-Dark](https://github.com/WannHakimi/WannHakimi/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ### 📊 GitHub Stats: 
